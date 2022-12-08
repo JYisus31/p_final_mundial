@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1013189058283",
+    "firebase_url": "https://pmsn-mundial-default-rtdb.firebaseio.com",
+    "project_id": "pmsn-mundial",
+    "storage_bucket": "pmsn-mundial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013189058283:android:8e6a2f78a440fc73a7e8ae",
+        "android_client_info": {
+          "package_name": "com.example.mundial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013189058283-pb6qbjqrnm0rr2qbnks43hc3h6i78p9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvj7wn09IlFaPHujw0P8-0cMviBYXreIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013189058283-pb6qbjqrnm0rr2qbnks43hc3h6i78p9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013189058283:android:8a41b1de79be38aca7e8ae",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013189058283-pb6qbjqrnm0rr2qbnks43hc3h6i78p9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvj7wn09IlFaPHujw0P8-0cMviBYXreIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013189058283-pb6qbjqrnm0rr2qbnks43hc3h6i78p9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
